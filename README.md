@@ -6,3 +6,4 @@ git clone depth は指定したコミット数に切り捨てられた履歴を�
 リビジョンを指定してCloneもできる
 
 Tab
+depthしてからのコミット
